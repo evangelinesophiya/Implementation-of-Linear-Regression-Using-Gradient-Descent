@@ -52,6 +52,8 @@ plt.show()
 
 ## Output:
 ![linear regression using gradient descent](sam.png)
+<img width="1036" height="724" alt="WhatsApp Image 2026-05-22 at 2 49 13 PM" src="https://github.com/user-attachments/assets/42ef53d4-21a1-40f9-8334-93b785d21633" />
+
 
 
 ## Result:
